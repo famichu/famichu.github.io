@@ -1,0 +1,266 @@
+<!doctype html/>
+<html lang="ja"/>
+
+<head>
+    <meta charset="UTF-8">
+    <title>famichuのものづくり日記</title>
+    <link rel="stylesheet" href="../styles/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="../images/logo.jpg">
+        <h3>famichuのものづくり日記</h3>
+        <nav>
+            <ul class="nav-ul">
+                <li class="nav-li"><a href="../index.html">TOP</a></li>
+                <li class="nav-li" id="current"><a href="../htmls/portfolio.html">制作物</a></li>
+                <li class="nav-li"><a href="../htmls/profile.html">自己紹介</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <article id="maglev_switch">
+            <h2>MagLevスイッチ/デモキーボード</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/maglev_numeric_keypad.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        ホールセンサと磁石を使ったバネ不使用・無接点のスイッチです。また、アクチュエーションポイントをソフトウェアで変更することも可能です。
+                        樹脂部品はすべてSLA式の3Dプリンタで作成しています。形状や寸法はCherry MXスイッチと互換性があるので、キーキャップは既存のものを使えます。
+                        展示会などを想定したデモテンキーを含む設計図は
+                        <a href=https://github.com/famichu/MagLev_Switch_MX>GitHub</a>で公開しています。</br>
+                        現在実際に触っていただけるイベントを模索中です。
+                    </p>
+                    <div class=information_links>
+                        <p>ダウンロード: <a href=https://github.com/famichu/MagLev_Switch_MX>GitHub</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="nrf52840tag">
+            <h2>nRF52840 Tag</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/nrf52840_tag.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        adafruit社より市販されている<a href=https://www.adafruit.com/product/4062>Adafruit Feather nRF52840 Express</a>
+                        をベースに、ボタン電池で駆動する電源回路、スイッチ、フルカラーLED(NeoPixel)を追加した小型開発ボードです。
+                        ボタン電池で駆動するため、落とし物タグやリモートシャッターボタンのようなものも開発可能です。
+                        Adafruitの製品と互換性があるため、CircuitPythonでも動作します。</br>
+                        設計図は<a href=https://github.com/famichu/nRF52840_tag>GitHub</a>で公開しています。
+                    </p>
+                    <div class=information_links>
+                        <p>ダウンロード: <a href=https://github.com/famichu/nRF52840_tag>GitHub</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="todays_3dprinting">
+            <h2>#本日の3Dプリンティング</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/todays_3dprinting.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        日常生活の中で3Dプリンタを実用した例を <a href=https://twitter.com/hashtag/%E6%9C%AC%E6%97%A5%E3%81%AE3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0>#本日の3Dプリンティング</a>
+                        というタグをつけてTwitterで投稿しています(まだ僕しかこのタグ使ってませんが、つけたい方はは自由に使ってください！)。汎用性のある、他の方々にも使っていただけそうなものは各ツイートのリプライ欄にてThingiverseで公開しています。
+                        過去の投稿は以下のモーメントにまとめています。
+                    </p>
+                    <div class=information_links>
+                        <p>Twitterモーメント: <a href=https://twitter.com/i/events/1470009530490802176>本日の3Dプリンティング</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="dryer">
+            <h2>光造形プリンタようの乾燥機</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/dryer.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        光造形プリンタで作成した造形物を乾燥させるための送風機です。PCようのファンとATtiny85で作成しました。風量は3段階に調節可能で、電源はType-C(PD 12V)で動くようになっています。</br>
+                        縦置き横置き両対応で、下はすのこ状になっているため下側も乾燥させることができます。風量のLEDインジケータは手芸用クリアレジンを使うことで、縦横両方から見やすい角配置にしました。
+                    </p>
+                    <div class=information_links>
+                        <p>Twitterモーメント: <a href=https://twitter.com/i/events/1470735351874478087>光造形プリンタようの造形物乾燥機制作過程</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="waterproof_clock">
+            <h2>E-ink防水時計</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/waterproof_clock.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        E-ink搭載ESP32開発ボードを使った3Dプリンタ製防水時計です。FFFタイプの3Dプリンタで作った樹脂部品と市販のOリングでIPX5程度の防水が可能でした(耐久性は不明)。ESP32のWi-Fi機能を使い、時刻と天気を自動取得します。</br>
+                        …が、バッテリ持ちが悪く、満足行く前に放置してしまっています。
+                    </p>
+                    <div class=information_links>
+                        <p>Twitterモーメント: <a href=https://twitter.com/i/events/1470747845368164357>E-ink防水時計の制作過程</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="digispark">
+            <h2>Digispark Blink</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/digispark.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        digiStump社より市販されている<a href=http://digistump.com/products/1>Digispark</a>をベースに、
+                        ワニ口クリップで接続できるIOや、タクトスイッチ、フルカラーLED(NeoPixel)、ストラップホールなどを搭載した開発ボードです。
+                        本当はプログラミングイベントなどで配布したかったのですが、コロナ禍で頓挫してしまったプロジェクトです。。</br>
+                        この制作物はオンライン開催となった<a href=https://twitter.com/famichu/status/1256404866852782082>
+                        MakerFaireKyoto 2020</a>にて公開しました。
+                    </p>
+                </div>
+            </article>
+        </article>
+
+        <article id="omni">
+            <a href="./omni.html">
+                <h2>簡単オムニホイール</h2>
+            </a>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/easy_omni.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        シャフトを省くすべての部品を3Dプリンタで作成したネジの要らないオムニホイールです。市販品の小型オムニと同等のサイズでありながら、
+                        安価に使えるものを目指しました。各部品がモジュール化されており、破損時に部品ごとに交換が可能であるという
+                        特徴もあります。CADデータは無料ダウンロード可能です。</br>
+                        この制作物は<a href="https://makezine.jp/event/makers-mfk2019/m0120/">MakerFaireKyoto 2019</a>
+                        にて展示しました。</br>
+                    </p>
+                    <div class=information_links>
+                        <p>開発録: <a href=./omni.html>簡単オムニホイール</a></p>
+                        <p>ダウンロード: <a href=https://www.thingiverse.com/thing:3617909>Thingiverse</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article id="powertap">
+            <h2>スマート電源タップ</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/power_tap.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        Bluetoothでスマートフォンと接続が可能な電源タップです。接続したデバイスを介して、
+                        3つの電源を個別にオン/オフすることができます。基本的にはArduinoとBluetoothモジュール、SSRを繋げたものです。</br>
+                        この制作物は<a href="https://gugen.jp/entry2018/2018-056">GUGEN2018</a>にて展示しました。
+                    </p>
+                </div>
+            </article>
+        </article>
+
+        <article>
+            <h2>エフェクトーンSD</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/efectone.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        ドアや引き出しなどに設置し、動きがあったときに音楽を流すことができるおもちゃです。当時ゼルダの伝説の一番くじで似たようなモノがあり、
+                        それが当たらなくて悔しすぎたので自作しましたｗ</br>
+                        ゲームやアニメなどで流れる効果音を、家の扉や引き出しからも流すことができます。Micro SDカードスロットを搭載していて、
+                        自分の好きな効果音を設定することができます。ATtiny85で開発しました。
+                    </p>
+                </div>
+            </article>
+        </article>
+
+        <article>
+            <h2>USBスイッチャー</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/usb_switcher.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        USB機器を接続する機器を切り替えることができるガジェットです。入力は1つ、出力は2つで、USB2.0までに対応しています。
+                    </p>
+                </div>
+            </article>
+        </article>
+        
+        <article>
+            <h2>Rock64専用ケース</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/rock64_case.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        シングルボードPC「Rock64」専用のアクリルケースです。レーザ加工機のみで制作が可能です。
+                        電源ボタンとリセットボタンのカバーまでアクリル板で作ってみました。
+                    </p>
+                </div>
+            </article>
+        </article>
+
+        <article>
+            <h2>Bingo!(Webアプリ)</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/bingo.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        javascriptの勉強を兼ねて作成したビンゴ用ルーレットアプリです。ビンゴ大会などにどうぞ。</br>
+                        javascriptの動作する全てのWebブラウザで動作します。CSSはFlexboxを用いて開発しており、スマートフォン
+                        でも見やすい表示に自動的に切り替わります。</br>
+                        実物は<a href="../apps/bingo.html">コチラ</a>(操作はスペースキーまたは画面タップ)
+                    </p>
+                    <div class=information_links>
+                        <p>プレイ: <a href=../apps/bingo.html>Bingo!</a></p>
+                    </div>
+                </div>
+            </article>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="content">
+                <div class="author">
+                        <h1>famichuのものづくり日記</h1>
+                        <p>本ページはfamichuの活動記録です。</p>
+                </div>
+                <div class="link">
+                    <ul class="link-ul">
+                    <h4>関連リンク</h4>
+                        <li class="link-li"><a href="https://twitter.com/famichu">Twitter</a></li>
+                        <li class="link-li"><a href="https://www.youtube.com/channel/UChmBNnx_jyQxPidEs02TLgg">YouTube(今の所イベントとかの動画用)</a></li>
+                        <li class="link-li"><a href="https://github.com/famichu">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p id="copyright">Copyright &copy; 2021 famichu</p>
+        </div>
+    </footer>
+</body>

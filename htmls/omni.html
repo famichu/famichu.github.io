@@ -1,0 +1,199 @@
+<!doctype html/>
+<html lang="ja"/>
+
+<head>
+    <meta charset="UTF-8">
+    <title>famichuのものづくり日記</title>
+    <link rel="stylesheet" href="../styles/product.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="../images/logo.jpg">
+        <h3>famichuのものづくり日記</h3>
+        <nav>
+            <ul class="nav-ul">
+                <li class="nav-li"><a href="../index.html">TOP</a></li>
+                <li class="nav-li" id="current"><a href="portfolio.html">制作物</a></li>
+                <li class="nav-li"><a href="profile.html">自己紹介</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <div class="abstract">
+            <h1>簡単オムニホイール</h1>
+            <img src="../images/omni_top.png">
+        </div>
+
+        <h2>特徴</h2>
+        <article>
+            <div class="features">
+                <div class="feature">
+                    <h3>安価で手軽に制作できる</h3>
+                    <figure>
+                        <img src="../images/omni_ver3.jpg">
+                        <figcaption>図1 オムニホイール</figcaption>
+                    </figure>
+                    <p>
+                        殆どの部品は3Dプリンタで印刷するため、安価で簡単に制作できます。材料や密度
+                        に依りますが、1つあたり大体150円程度で制作できます。
+                    </p>
+
+                    <p>
+                        安価な3Dプリンタでも問題ありません。現時点で、以下の3種の3Dプリンタでテスト
+                        しました。
+                    </p>
+                    
+                    <ul>
+                        <li>ダヴィンチnano（実売2万4千円程度）</li>
+                        <li>CR-10S（実売5万6千円程度）</li>
+                        <li>UP mini2（実売10万円程度）</li>
+                    </ul>
+
+                    <p>
+                        図1の左から順に、ダヴィンチnano、CR-10S、UP mini2で出力したものです。
+                        UP mini2が最もバラつきは小さいですが、安価なプリンタで出力したものでも動作
+                        します。
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>簡単に組み立て可能</h3>
+
+                    <figure>
+                        <img src="../images/omni_module.jpg">
+                        <figcaption>図2 はめ込みタイプの小車輪</figcaption>
+                    </figure>
+                    
+                    <p>
+                        組み立てにネジは必要ありません。複雑な工程や工具も不要なので、小さなお子様やものづくり初心者でも気軽に使えます。
+                        小車輪ははめ込み式で、取り外しや交換も可能です。
+                    </p>
+                </div>
+            </div>
+        </article>
+
+        <h2>詳細スペック</h2>
+        <article>
+            <div class="specification">
+                <figure>
+                    <img src="../images/omni_size.png">
+                    <figcaption>図3 オムニの寸法</figcaption>
+                </figure>
+                <ul>
+                    <li>直径: 54mm</li>
+                    <li>厚み: 22mm</li>
+                    <li>小車輪の数: 18個</li>
+                    <li>耐荷重: 未計測(600g以上を目標に設計)</li>
+                </ul>
+            </div>
+        </article>
+
+        <h2>使い方・ダウンロード</h2>
+        <article>
+            <div class="download">
+                <p>
+                    <a href="https://www.thingiverse.com/thing:3617909">Thingiverse</a>にてこのオムニホ
+                    イールのCADデータを無料公開しています。組み立て手順はThingiverseのSummaryをご覧下さ
+                    い（日本語でも記入しています）。
+                </p>
+            </div>
+        </article>
+
+        <h2>動作デモ</h2>
+        <article>
+            <div class="demo">
+                <p>
+                    簡単オムニホイールを3つ使ったデモロボットを作成してみました。マイコンはESP32を使用し、Bluetooth経由でスマートフォンから操作しています。
+                    スマートフォン側のアプリは、Bluetrollerというアプリ(既に配信終了しているようです)を使用していました。
+                </p>
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/JZzOz-Nqcoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </article>
+
+        <article class="note">
+            <h2>開発録</h2>
+            <p>
+                当初は私自身がロボカップジュニアに参加しており、予算不足からオムニホイールの自作を始めました。
+                当時は3Dプリンタが手元になかったため、レーザ加工機でアクリル板を重ねる方式で制作しました(図4)。
+            </p>
+
+            <figure>
+                <img src="../images/omni_ver1.jpg">
+                <figcaption>図4 アクリル板を用いた初期型オムニ</figcaption>
+            </figure>
+
+            <p>
+                寸法は当時ロボカップジュニアで流行っていた中国のJoinMax社のオムニホイールと互換性をもたせました。
+            </p>
+            
+            <p>
+                その後3Dプリンタが個人でも使えるようになり、組み立てのしやすさや単価の安さなどを意識した新シリーズの設計に着手しました。
+                アクリル板を用いた当初のモデルはネジで留めるまで片手が塞がってしまい、特に手の小さい子供などは組み立てにくいものでした。
+                そこでテーブルに置いたまま組み立てが可能な2作目(図5)を作成しました。
+            </p>
+
+            <figure>
+                <img src="../images/omni_ver2.jpg">
+                <figcaption>図5 3Dプリンタで印刷した2作目のオムニ</figcaption>
+            </figure>
+
+            <p>
+                2作目のオムニホイールは組み立てやすいという利点の他に、保守性が高いという利点もありました。
+                小車輪やボディがモジュール化されているため、製品化されているオムニホイールよりも修理コストを低く抑えることができました。
+                当時のロボカップジュニアでは高電圧のバッテリが使用可能で、試合中にオムニホイールが壊れたり摩耗することが多かったため、
+                予算の少ないチームには重要な点でした。</br>
+                また、衝撃が加わりやすい外側の層に金属製の部品を用いることで, 耐衝撃性を上げることも可能でした。
+            </p>
+
+            <p>
+                しかしながら実際にロボカップに参加している小学生に使ってもらったところ、「小車輪の軸が小さく組み立てにくい」という声が上がりました。
+                また、小学生の小さな手では最後のネジが締めづらそうに見えました。これらの点を改良すべく3作目(図6)の開発に着手しました。
+            </p>
+
+            <figure>
+                <img src="../images/easy_omni.jpg">
+                <figcaption>図6 はめ込み式のオムニホイール</figcaption>
+            </figure>
+
+            <p>
+                この3作目では、小車輪の軸の固定を「挟み込み方式」から「はめ込み方式」に変更しました。
+                これによって、小さな軸の設置やネジ留めといった手間を省くことができました。また、ネジ穴がなくなったことで、
+                ホイール中心の形状にも制限がなくなり、肉抜きを行ったり、好きなデザインにすることが可能になりました。
+            </p>
+
+            <figure>
+                <img src="../images/omni_prototypes.jpg">
+                <figcaption>図6 溝のプロトタイプ</figcaption>
+            </figure>
+
+            <p>
+                3Dプリンタではめ込み可能な溝をバラつきなく印刷するのは難しく、
+                現在の形に至るまでに数多くのプロトタイプを作成しました(図6)。
+            </p>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="content">
+                <div class="author">
+                        <h1>famichuのものづくり日記</h1>
+                        <p>本ページはfamichuの活動記録です. </p>
+                </div>
+                <div class="link">
+                    <ul class="link-ul">
+                    <h4>関連リンク</h4>
+                        <li class="link-li"><a href="https://twitter.com/famichu">Twitter</a></li>
+                        <li class="link-li"><a href="https://www.youtube.com/channel/UChmBNnx_jyQxPidEs02TLgg">YouTube(今の所イベントとかの動画用)</a></li>
+                        <li class="link-li"><a href="https://github.com/famichu">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p id="copyright">Copyright &copy; 2021 famichu</p>
+        </div>
+    </footer>
+</body>
