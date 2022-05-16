@@ -31,6 +31,7 @@ body{
     min-height: 100vh;
     min-width: 100vw;
     background-color: var(--body-color);
+    margin: 0;
 }
 
 /*header*/
@@ -439,6 +440,14 @@ article:not(:first-of-type) h2{
         width: 100%;
     }
     
+    p{
+        font-size: 200%;
+    }
+   
+    article h3{
+        font-size: 200%;
+    }
+    
     article:not(:last-child):after{
         margin: 10% auto;
         width: 90vw;
@@ -453,15 +462,23 @@ article:not(:first-of-type) h2{
     }
 
     .specification{
-        align-items: stretch;
+        flex-direction: column;
     }
     .specification figure{
-        width: var(--mobile-text-w);
+        width: 100%;
         max-width: none;
+        margin-bottom: 2vh;
+    }
+    .specification img{
+        min-width: 80%;
     }
     .specification ul{
         max-width: none;
-        width: 60vw;
+        width: auto;
+        font-size: 200%;
+        margin-left:20%;
+    }
+    .specifications p{
         font-size: 200%;
     }
 
@@ -475,6 +492,10 @@ article:not(:first-of-type) h2{
     .demo iframe{
         width: var(--mobile-figure-w);
         height: calc(var(--mobile-figure-w) * 9 / 16);
+    }
+
+    .publications ul{
+        font-size: 200%;
     }
 
     .download,
