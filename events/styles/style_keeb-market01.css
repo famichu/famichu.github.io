@@ -164,11 +164,12 @@ footer *{
     display: flex;
     max-width: 320px;
     min-width: 20%;
-    margin-bottom: -3%;
 }
 .flex-img{
     max-width: 100%;
     align-self: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 /*hyper link*/
@@ -202,7 +203,7 @@ article{
 .products{
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: stretch;
     width: 100%;
     justify-content: space-between;
 }
@@ -220,7 +221,7 @@ article{
 }
 
 .price{
-    margin-top: 15px;
+    margin-top: auto;
     margin-bottom: 15px;
 }
 
@@ -233,17 +234,18 @@ article{
 .information_title p{
     text-align: center;
     margin-top: 15px;
-    display: none
+    display: none;
 }
 
 .products .information_links{
-    margin-top: 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: stretch;
-    display: none
+    display: none;
 }
 .information_links p{
     align-self: center;
