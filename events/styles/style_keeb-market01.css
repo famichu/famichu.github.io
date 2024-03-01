@@ -368,6 +368,12 @@ article:not(:first-of-type) h2{
         margin-bottom: 5%;
         align-self: center;
     }
+    .price{
+        margin-top: 5em;
+    }
+    .price p{
+        font-size: 22pt;
+    }
     .products .information_links{
         min-height: 5vh;
         margin-top: 0;
