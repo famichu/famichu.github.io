@@ -163,7 +163,7 @@ footer *{
 .thumbnail{
     display: flex;
     max-width: 320px;
-    min-width: 20%;
+    min-width: 320px;
 }
 .flex-img{
     max-width: 100%;
