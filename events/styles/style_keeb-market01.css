@@ -218,6 +218,7 @@ article{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: stretch;
+    width: 100%;
 }
 
 .price{
@@ -234,7 +235,6 @@ article{
 .information_title p{
     text-align: center;
     margin-top: 15px;
-    display: none;
 }
 
 .products .information_links{
@@ -245,7 +245,6 @@ article{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: stretch;
-    display: none;
 }
 .information_links p{
     align-self: center;
@@ -360,6 +359,10 @@ article:not(:first-of-type) h2{
     }
     .products{
         flex-direction: column;
+    }
+    .products .information{
+        margin-left: auto;
+        margin-right: auto;
     }
     .products .thumbnail{
         width: 60%;
