@@ -163,7 +163,7 @@ footer *{
 .thumbnail{
     display: flex;
     max-width: 320px;
-    min-width: 320px;
+    min-width: 20%;
 }
 .flex-img{
     max-width: 100%;
@@ -234,6 +234,7 @@ article{
 .information_title p{
     text-align: center;
     margin-top: 15px;
+    display: none;
 }
 
 .products .information_links{
@@ -244,6 +245,7 @@ article{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: stretch;
+    display: none;
 }
 .information_links p{
     align-self: center;
