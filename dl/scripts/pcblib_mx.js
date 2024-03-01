@@ -1,6 +1,6 @@
 const a = document.createElement('a')
-a.href = "../files/mx_kicadlib.zip";
-a.download = "maglev_switch_mx_manual_1.00.pdf";
+a.href = "../files/KiCAD_Libs_MagLevSwitchMX_V1.00.zip";
+a.download = "KiCAD_Libs_MagLevSwitchMX_V1.00.zip";
 a.style.display = 'none'
 a.click();
 
