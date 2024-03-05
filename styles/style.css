@@ -333,6 +333,9 @@ article:not(:first-of-type) h2{
 
 .namecard h2{
     margin-right: auto;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .namecard img{
