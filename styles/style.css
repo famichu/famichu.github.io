@@ -27,6 +27,7 @@ body{
     flex-direction: column;
     min-height: 100vh;
     background-color: var(--body-color);
+    margin: 0;
 }
 
 /*header*/
@@ -189,9 +190,9 @@ h3{
 }
 
 .index img{
-    height: 20%;
-    margin-top: 15vh;
-    margin-bottom: 10vh;
+    height: 15vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 .index p{
@@ -434,6 +435,11 @@ article:not(:first-of-type) h2{
 /*=======commom end======*/
 
 /*======index start======*/
+    .index img{
+        height: 10vh;
+        margin-top: 15vh;
+        margin-bottom: 10vh;
+    }
     .index p{
         font-size: 175%;
     }
