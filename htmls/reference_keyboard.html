@@ -1,0 +1,193 @@
+<!doctype html/>
+<html lang="ja"/>
+
+<head>
+    <meta charset="UTF-8">
+    <title>famichuのものづくり日記</title>
+    <meta name="discription" content="MagLev Switchリファレンスキーボードについて">
+    <meta property="og:title" content="famichuのものづくり日記">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://famichu.github.io/images/logo.jpg">
+    <meta property="og:url" content="https://www.famichu.github.io">
+    <meta property="og:discription" content="MagLev Switchリファレンスキーボードについて">
+    <link rel="stylesheet" href="../styles/reference_keyboard.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="../images/logo.jpg">
+        <h3>famichuのものづくり日記</h3>
+        <nav>
+            <ul class="nav-ul">
+                <li class="nav-li"><a href="../index.html">TOP</a></li>
+                <li class="nav-li" id="current"><a href="portfolio.html">制作物</a></li>
+                <li class="nav-li"><a href="profile.html">自己紹介</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <div class="abstract">
+            <h1>MagLev Switch</br>リファレンス</br>キーボード</h1>
+            <img src="../images/ref_keyboard_header.png">
+        </div>
+
+        <h2>特徴</h2>
+        <article>
+            <div class="features">
+                <div class="feature">
+                    <h3>磁気浮上式無接点スイッチ採用</h3>
+                    <figure>
+                        <img src="../images/maglev_cross_section.drawio.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <p>
+                        バネの代わりに磁石の反発力を使用し、ホール素子で押下を認識する”磁気浮上式無接点スイッチ”
+                        をWASDキーに使用した自作キーボードキットです
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>可変アクチュエーションポイント</h3>
+                    <figure>
+                        <img src="../images/mx_linear_output.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    
+                    <p>
+                        リニア出力のホール素子を採用し、スイッチの押下具合まで認識可能。
+                        プログラム次第でアクチュエーションポイントやリリースタイミングも自由に設定可能です。
+                    </p>
+                </div>
+                
+                <div class="feature">
+                    <h3>RP2040搭載</h3>
+                    <figure>
+                        <img src="../images/rp2040.jpg">
+                        <figcaption></figcaption>
+                    </figure>
+                    
+                    <p>
+                        最大1000Hzのポーリングレートを誇るデュアルコアMCU"RP2040"を搭載。
+                        Arduino IDEやRaspberry Pi Pico SDK経由で任意のプログラムを書き込むことも可能です。
+                    </p>
+                </div>
+
+            </div>
+        </article>
+
+        <h2>詳細スペック</h2>
+        <article>
+            <div class="specifications">
+                <div class="specification">
+                    <figure>
+                        <img src="../images/ref_keyboard_drawing.png">
+                        <figcaption></figcaption>
+                    </figure>
+                </div>
+                <div class="specification">
+                    <figure>
+                        <img src="../images/ref_keyboard_size01.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <figure>
+                        <img src="../images/ref_keyboard_size02.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <ul>
+                        <li>総キー数: 25キー</li>
+                        <li>幅: 161mm</li>
+                        <li>奥行き: 109mm</li>
+                        <li>角度(スタンド使用時): 約6°</li>
+                        <li>角度(スタンド収納時): 約3°</li>
+                    </ul>
+                </div>
+                <p>
+                    キーに加えて、24パルスのクリック感のないロータリエンコーダ、タクトスイッチを各1つ搭載します。</br>
+                    WASDの4キーにはキットに同梱するMagLev Switch MXを使用します。その他のキーはKailhのMXスイッチソケットにて任意のスイッチを接続可能です。
+                    お好みのCherry MX互換スイッチをご利用ください。</br>
+                </p>
+                <p>
+                    <b>
+                        ※本製品はキットです。スイッチソケット、ロータリエンコーダのはんだ付けおよびプログラム書き込み作業はご自身で行って頂く必要がございます。</br>
+                        ※本製品に付属するスイッチはMagLev Switch x4キーのみとなります。その他のキーとキーキャップは別途ご用意ください。Cherry MX互換のスイッチが使用可能です。
+                    </b>
+                </p>
+            </div>
+        </article>
+
+        <h2>組立方法・ダウンロード</h2>
+        <article>
+            <div class="download">
+                <p>
+                    Comming soon...
+                </p>
+            </div>
+        </article>
+        
+        <h2>販売ページ</h2>
+        <article>
+            <div class="download">
+                <p>
+                    Comming soon...
+                </p>
+            </div>
+        </article>
+
+        <h2>関連製品</h2>
+        <article>
+            <div class="publications">
+                <p>
+                    磁気浮上式無接点スイッチを採用した関連製品です。</br>本製品に付属するスイッチは、以下のMagLev Switch MXです。
+                </p>
+                <div class="centering-ul">
+                    <ul>
+                        <li>MagLev Switch MX: <a href="../events/keeb-market01.html#MLSW_MX">MagLev Switch MX | キーケット1</a></li>
+                        <li>MagLev Switch Breakout Module: <a href="../events/keeb-market01.html#MLSW_Module">MagLev Switch Module | キーケット1</a></li>
+                        <li>MagLev Switch Arcade: <a href="../events/keeb-market01.html#MLSW_Arcade">MagLev Switch Arcade | キーケット1</a></li>
+                        <li>オープンソースバージョン: <a href=https://github.com/famichu/MagLev_Switch_MX>Maglev Switch MX | Github</a></li>
+                    </ul>
+                </div>
+            </div>
+        </article>
+        
+        <h2>イベント出展</h2>
+        <article>
+            <div class="publications">
+                <p>
+                    MagLev Switchシリーズを過去に展示・販売したイベント一覧です。
+                </p>
+                <div class="centering-ul">
+                    <ul>
+                        <li>Maker Faire Kyoto 2023(2023年4月29～30日): <a href=https://makezine.jp/event/makers-mfk2023/m0013>https://makezine.jp/event/makers-mfk2023/m0013</a></li>
+                        <li>大阪工業大学 ネットワークデザイン学科 LT大会 2023v1(2023年6月16日): <a href=https://connpass.com/event/281692/>https://connpass.com/event/281692/</a></li>
+                        <li>キー部 5%(2023年7月15日): <a href=https://keeb.connpass.com/event/287060/>https://keeb.connpass.com/event/287060/</a></li>
+                        <li>キーケット1(2024年3月2日): <a href=https://keyket.jp/>https://keyket.jp/</a></li>
+                    </ul>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="content">
+                <div class="author">
+                        <h1>famichuのものづくり日記</h1>
+                        <p>本ページはfamichuの活動記録です. </p>
+                </div>
+                <div class="link">
+                    <ul class="link-ul">
+                    <h4>関連リンク</h4>
+                        <li class="link-li"><a href="https://twitter.com/famichu">Twitter</a></li>
+                        <li class="link-li"><a href="https://www.youtube.com/channel/UChmBNnx_jyQxPidEs02TLgg">YouTube(今の所イベントとかの動画用)</a></li>
+                        <li class="link-li"><a href="https://github.com/famichu">GitHub</a></li>
+                        <li class="link-li"><a href="https://www.printables.com/@famichu_191761">Printables</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p id="copyright">Copyright &copy; 2021 famichu</p>
+        </div>
+    </footer>
+</body>
