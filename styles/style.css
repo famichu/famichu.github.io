@@ -50,6 +50,7 @@ header img{
 
 header h3{
     font-weight: normal;
+    color: var(--fonts-color);
 }
 
 nav{
@@ -177,6 +178,7 @@ h2,
 h3{
     text-align: center;
     font-weight: normal;
+    color: var(--fonts-color);
 }
 /*====common end====*/
 
@@ -365,9 +367,14 @@ article:not(:first-of-type) h2{
 @media screen and (max-width: 1250px){
 /*======commom start=====*/
 /*header*/
+    header a{
+       display: flex; 
+       justify-content: center;
+    }
     header img{
-        height: 25%;
+        height: 30%;
         width: auto;
+        max-width: 20vw;
     }
 
     header h3{
@@ -402,25 +409,25 @@ article:not(:first-of-type) h2{
         width: 80%;
     }
     .author h1{
-        font-size: 250%;
+        font-size: 24pt;
     }
     .author p{
         margin-left: 10%;
-        font-size: 200%;
+        font-size: 24pt;
     }
     .link{
         margin-left: 0;
         width: 80%;
     }
     .link-ul{
-        font-size: 200%;
+        font-size: 24pt;
     }
     .link-li{
         margin-left: 10%;
     }
     #copyright{
         margin-right: 5%;
-        font-size: 200%;
+        font-size: 24pt;
     }
 
 /*h*/
@@ -432,7 +439,7 @@ article:not(:first-of-type) h2{
 
 /*p*/
     p{
-        font-size: 16px;
+        font-size: 18pt;
         line-height: 1.5em;
     }
 /*=======commom end======*/
@@ -444,10 +451,10 @@ article:not(:first-of-type) h2{
         margin-bottom: 10vh;
     }
     .index p{
-        font-size: 175%;
+        font-size: 18pt;
     }
     .index h2{
-        font-size: 40px;
+        font-size: 23pt;
     }
     .list{
         display: flex;
@@ -467,7 +474,7 @@ article:not(:first-of-type) h2{
 
     .abstract p,
     .abstract h3{
-        font-size: 175%;
+        font-size: 20pt;
     }
 /*=======index end=======*/
 
@@ -489,7 +496,7 @@ article:not(:first-of-type) h2{
         min-height: 5vh;
     }
     .information_links p{
-        font-size: 32px;
+        font-size: 20pt;
         line-height: 3em;
     }
 /*=====portfolio end=====*/
@@ -498,6 +505,11 @@ article:not(:first-of-type) h2{
     .profile,
     .abilities{
         width: 85%;
+    }
+
+    .abilities li,
+    .etc li{
+        font-size: 18pt;
     }
 
     .namecard .thumbnail{

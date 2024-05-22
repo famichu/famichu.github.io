@@ -1,4 +1,4 @@
-/*====common====*/
+/*====common start====*/
 :root{
     --header-color: white;
     --body-color: white;
@@ -10,18 +10,15 @@
 
     --header-margin: 135px; 
     --header-negative-margin: -135px; 
-    --header-margin: 135px; 
     --header-margin-mobile: 255px; 
     --header-negative-margin-mobile: -255px; 
 
-    --content-width: 75%;
-    --content-max-width: 1280px;
-
     --mobile-text-w: 90vw;
-    --mobile-figure-w: 85vw;
+    --mobile-figure-w: 80vw;
 
-    font-family: 'Noto Serif JP', sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     color: var(--fonts-color);
+
 }
 
 /*body*/
@@ -29,6 +26,11 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    
     background-color: var(--body-color);
 }
 
@@ -36,10 +38,10 @@ body{
 header{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    align-self: center;
     width: 90%;
-    margin: 0 auto;
     border-bottom: solid 1px;
     background-color: var(--header-color);
 }
@@ -52,7 +54,7 @@ header img{
 
 header h3{
     font-weight: normal;
-    color: var(--fonts-color);
+    color: var(--fonts-color)
 }
 
 nav{
@@ -109,7 +111,7 @@ footer *{
 }
 
 .container{
-    width: var(--content-width);
+    width: 75%;
     max-width: 1536px;
     margin: 0 auto 0 auto;
 
@@ -154,9 +156,22 @@ footer *{
 
 #copyright{
     text-align: right;
-    margin-right: 5%;
+    margin-right: 0%;
 }
 
+
+/*thumbnail*/
+.thumbnail{
+    display: flex;
+    max-width: 320px;
+    min-width: 20%;
+}
+.flex-img{
+    max-width: 100%;
+    align-self: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 /*hyper link*/
 * a{
@@ -169,105 +184,76 @@ h3{
     text-align: center;
     font-weight: normal;
 }
+/*====common end====*/
 
-.abstract{
-    box-shadow: 3px 5px 10px 2px rgba(0, 0, 0, 0.1);
-    width: 95vw;
-    max-width: 1300px;
-    margin: 2%  auto 0 auto;
-    position: relative;
+
+/*====portfolio start====*/
+article{
+    max-width: 1024px;
 }
 
-.abstract h1{
-    position: absolute;
-    color: white;
-    top: 16%;
-    left: 43%;
-    font-size: 3.4vw;
+.main_title{
+    margin-bottom: 0;
+    font-size: 40pt;
+}
+.sub_title{
+    margin-top: 0;
+    font-size: 24pt;
 }
 
-.abstract img{
-    width: 100%;
-}
-
-.features{
+.products{
     display: flex;
-    width: var(--content-width);
-    max-width: var(--content-max-width);
-    margin: auto;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+    justify-content: space-between;
 }
-
-.feature{
-    width: 40vw;
-    max-width: 500px;
-    margin: 0 auto;
+.products p{
+    margin: 0 2%;
+}
+.products .information{
+    flex-grow: 1;
 
     display: flex;
     flex-direction: column;
-    align-content: start;
-}
-
-.feature figure{
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
     width: 100%;
-    margin: 0;
 }
 
-.specification{
+.price{
+    margin-top: auto;
+    margin-bottom: 15px;
+}
+
+.price p{
+    font-size: 14pt;
+    font-weight: 500;
+    text-align: end;
+}
+
+.information_title p{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.products .information_links{
+    margin-top: 5px;
+    margin-bottom: 15px;
     display: flex;
-    width: 100%;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
 }
-.specification ul{
-    width: 35vw;
-    max-width: 380px;
-    margin: auto;
-}
-
-.specification figure{
-    width: 50vw;
-    max-width: 640px;
-    margin: auto;
-}
-.download{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-
-    margin: auto;
-    width: var(--content-width);
-    max-width: var(--content-max-width);
-}
-.download p{
-    width: 100%;
-    margin: auto;
+.information_links p{
+    align-self: center;
 }
 
-.demo{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    
-    width: var(--content-width);
-    margin: 0 auto;
-    max-width: var(--content-max-width);
+article{
+    width: 60%;
 }
-
-.demo iframe{
-    width: 100%;
-    height: calc(75vw * 9 / 16);
-    max-height: calc(var(--content-max-width) * 9 / 16);
-    margin : 0 auto;
-}
-
-.demo p{
-    width: 100%;
-}
-
-.note{
-    width: var(--content-width);
-    max-width: var(--content-max-width);
-}
-
 article:not(:last-child):after{
     overflow: hidden;
     content: "";
@@ -275,73 +261,30 @@ article:not(:last-child):after{
     border-style: solid none none none;
     border-width: 1px;
     display: block;
-    margin: 5% 5%;
-    width: 90vw;
+    margin: 5% -5%;
+    width: 110%;
 }
-
 section:last-child, 
 article:last-child{
     margin-bottom: 5%;
-}
-
-.list .thumbnail{
-    margin: 0 auto;
-}
-
-.list div:last-of-type{
-    margin-bottom: 5%;
-}
-
-article figure{
-    width: var(--mobile-figure-w);
-    margin: auto;
-}
-
-.note figure{
-    float: left;
-    width: 25%;
-    display: flex-box;
-    margin: 1%;
-}
-
-figure img{
-    justify-content: stretch;
-    max-width: 75%;
-    margin: 0% 12% 12% 12%;
-}
-
-figcaption{
-    text-align: center;
-    font-size: small;
-    margin-top: -12%;
-}
-
-.note:nth-of-type(even) figure, 
-.note:nth-of-type(odd) figure:nth-of-type(even){
-    float: right;
-}
-
-.note figure:nth-of-type(even){
-    float: left;
 }
 
 article:not(:first-of-type) h2{
     margin-top: -3%;
 }
 
-.note p{
-    text-indent: 1em;
-}
+/*=====portfolio end=====*/
 
 @media screen and (max-width: 1250px){
-    /*header*/
+/*======commom start=====*/
+/*header*/
     header img{
-        height: 25%;
-        width: auto;
+        height: auto;
+        width: 25%;
     }
 
     header h3{
-        font-size: 40px;
+        font-size: 28pt;
     }
     .nav-ul{
         display: flex;
@@ -349,19 +292,17 @@ article:not(:first-of-type) h2{
         list-style-type: none;
         flex-direction: row;
     }
-
     .nav-li{
         flex-grow: 1;
         margin: 2px;
         text-align: center;
     }
-
     .nav-li a{
-        font-size: 30px;
+        font-size: 24pt;
         padding: auto auto 16px 8px;
     }
 
-    /*footer*/
+/*footer*/
     .container{
         width: 100%;
     }
@@ -372,99 +313,82 @@ article:not(:first-of-type) h2{
     }
     .author{
         width: 80%;
+        border-style: none;
     }
     .author h1{
-        font-size: 250%;
+        font-size: 24pt;
     }
     .author p{
         margin-left: 10%;
-        font-size: 200%;
+        font-size: 20pt;
     }
     .link{
         margin-left: 0;
         width: 80%;
     }
     .link-ul{
-        font-size: 200%;
+        font-size: 20pt;
     }
     .link-li{
         margin-left: 10%;
     }
     #copyright{
-        font-size: 200%;
+        margin-right: 5%;
+        font-size: 20pt;
     }
-    
-   
-    /*main*/
-    .abstract{
-        width: 100%;
-    }
-    .abstract h1{
-        top: 20%;
-        left: 52%;
-        font-size: 3.8vw;
-    }
-    
+
+/*h*/
+    h1,
     h2{
-        width: 100%;
+        font-size: 30pt;
+        line-height: 1.7em;
     }
-    
-    article:not(:last-child):after{
-        margin: 10% auto;
-        width: 90vw;
+    .sub_title{
+        font-size: 28pt;
     }
-    .features{
+
+/*p*/
+    p{
+        font-size: 20pt;
+        line-height: 1.5em;
+    }
+/*=======commom end======*/
+
+/*====portfolio start====*/
+    article{
+        width: var(--mobile-text-w);
+    }
+    .products{
         flex-direction: column;
     }
-    .feature{
-        width: var(--mobile-text-w);
-        max-width: none;
-        margin-bottom: 10%;
+    .products .information{
+        margin-left: auto;
+        margin-right: auto;
     }
-
-    .specification{
-        align-items: stretch;
+    .products .thumbnail{
+        width: 60%;
+        max-width: 60vw;
+        min-width: 60vw;
+        margin-bottom: 5%;
+        align-self: center;
     }
-    .specification figure{
-        width: var(--mobile-text-w);
-        max-width: none;
+    .price{
+        margin-top: 5em;
     }
-    .specification ul{
-        max-width: none;
-        width: 60vw;
-        font-size: 200%;
+    .price p{
+        font-size: 22pt;
     }
-
-    .download p{
-        width: 100%;
+    .products .information_links{
+        min-height: 5vh;
+        margin-top: 0;
     }
-    .download p, 
-    .demo p{
-        font-size: 28px;
+    .information_links p{
+        font-size: 16pt;
+        line-height: 3em;
     }
-    .demo iframe{
-        width: var(--mobile-figure-w);
-        height: calc(var(--mobile-figure-w) * 9 / 16);
+    article:not(:last-child):after{
+        margin: 5% 5%;
+        width: 90%;
     }
-
-    .download,
-    .demo, 
-    .note{
-        width: var(--mobile-text-w);
-    }
-
-    .note figure{
-        float: none;
-        width: var(--mobile-figure-w);
-        margin: auto;    
-    }
-    .note:nth-of-type(even) figure, 
-    .note:nth-of-type(odd) figure:nth-of-type(even){
-        float: none;
-    
-    }
-
-    .note figure:nth-of-type(even){
-        float: none;
-    }
+/*=====portfolio end=====*/
 }

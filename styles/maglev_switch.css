@@ -29,7 +29,6 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    min-width: 100vw;
     background-color: var(--body-color);
     margin: 0;
 }
@@ -54,6 +53,7 @@ header img{
 
 header h3{
     font-weight: normal;
+    color: var(--fonts-color);
 }
 
 nav{
@@ -309,7 +309,7 @@ article:not(:last-child):after{
     border-style: solid none none none;
     border-width: 1px;
     display: block;
-    margin: 5vw 5vw;
+    margin: 5% 5%;
     width: 90vw;
 }
 
