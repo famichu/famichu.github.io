@@ -278,9 +278,14 @@ article:not(:first-of-type) h2{
 @media screen and (max-width: 1250px){
 /*======commom start=====*/
 /*header*/
+    header a{
+       display: flex; 
+       justify-content: center;
+    }
     header img{
-        height: auto;
-        width: 25%;
+        height: 30%;
+        width: auto;
+        max-width: 20vw;
     }
 
     header h3{
@@ -383,7 +388,7 @@ article:not(:first-of-type) h2{
         margin-top: 0;
     }
     .information_links p{
-        font-size: 16pt;
+        font-size: 22pt;
         line-height: 3em;
     }
     article:not(:last-child):after{

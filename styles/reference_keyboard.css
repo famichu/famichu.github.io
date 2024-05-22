@@ -375,9 +375,14 @@ article:not(:first-of-type) h2{
 
 @media screen and (max-width: 1250px){
     /*header*/
+    header a{
+       display: flex; 
+       justify-content: center;
+    }
     header img{
-        height: auto;
-        width: 25%;
+        height: 30%;
+        width: auto;
+        max-width: 20vw;
     }
 
     header h3{
