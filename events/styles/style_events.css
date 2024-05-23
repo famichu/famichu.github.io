@@ -274,6 +274,7 @@ article:not(:first-of-type) h2{
 }
 
 #caution{
+    margin-top: 20px;
     color: crimson;
     font-size: 9pt;
 }
@@ -399,6 +400,9 @@ article:not(:first-of-type) h2{
     article:not(:last-child):after{
         margin: 5% 5%;
         width: 90%;
+    }
+    #caution{
+        font-size: 14pt;
     }
 /*=====portfolio end=====*/
 }
