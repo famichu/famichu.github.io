@@ -273,6 +273,11 @@ article:not(:first-of-type) h2{
     margin-top: -3%;
 }
 
+#caution{
+    color: crimson;
+    font-size: 9pt;
+}
+
 /*=====portfolio end=====*/
 
 @media screen and (max-width: 1250px){
