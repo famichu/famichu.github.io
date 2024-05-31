@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="322.05997mm"
+   height="198.10054mm"
+   viewBox="0 0 322.05997 198.10054"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mlsw_refkb_ui.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5212498"
+     inkscape:cx="608.38135"
+     inkscape:cy="374.36324"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-13" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-5-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-13-3" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#000000;stroke:#000000;stroke-width:0.766164;stroke-linecap:round;stroke-opacity:1"
+     id="rect1"
+     width="129.23384"
+     height="65.233833"
+     x="168.78189"
+     y="15.830746" />
+  <rect
+     style="fill:#000000;stroke:#ffffff;stroke-width:0.895572;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="20.450718"
+     height="63.104427"
+     x="180.44659"
+     y="16.895447" />
+  <rect
+     style="fill:#000000;stroke:#ffffff;stroke-width:0.895572;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2-4"
+     width="20.450718"
+     height="63.104427"
+     x="212.44659"
+     y="16.895447" />
+  <rect
+     style="fill:#000000;stroke:#ffffff;stroke-width:0.895572;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2-2"
+     width="20.450718"
+     height="63.104427"
+     x="244.44659"
+     y="16.895447" />
+  <rect
+     style="fill:#000000;stroke:#ffffff;stroke-width:0.895572;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2-1"
+     width="20.450718"
+     height="63.104427"
+     x="276.44659"
+     y="16.895447" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.00917;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3"
+     width="20.299551"
+     height="57.51067"
+     x="180.52217"
+     y="22.413628" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.964872;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3-4"
+     width="20.450718"
+     height="52.184402"
+     x="212.44659"
+     y="27.815475" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.432348;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3-1"
+     width="20.876368"
+     height="10.264136"
+     x="244.21498"
+     y="69.94857" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.666514;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3-14"
+     width="20.642204"
+     height="24.670141"
+     x="276.29739"
+     y="55.425476" />
+  <circle
+     id="path4"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583"
+     cx="184.35857"
+     cy="100.88274"
+     r="0.019273872" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.978545;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 212.8568,22.398314 h 20.48829"
+     id="path5-1" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.978545;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 244.8568,36.576518 h 20.48829"
+     id="path5-9" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.978545;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 275.96414,30.734852 h 20.48829"
+     id="path5-2" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00379;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 179.7671,61.611302 h 21.5592"
+     id="path5-6" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00379;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 179.78588,39.009862 h 21.55921"
+     id="path5-6-4" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00379;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 211.82055,65.482302 h 21.5592"
+     id="path5-6-5" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00379;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 243.8552,76.336362 h 21.5592"
+     id="path5-6-2" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00379;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+     d="m 275.96413,67.382772 h 21.55921"
+     id="path5-6-0" />
+  <g
+     id="g9-0"
+     transform="matrix(0.89730151,0,0,-1.0058456,143.56712,131.18751)">
+    <path
+       id="path8-2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-05"
+     transform="matrix(0.89725348,0,0,1.0058477,175.58471,-47.410778)">
+    <path
+       id="path8-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-0-0"
+     transform="matrix(0.89730151,0,0,-1.0058456,175.58301,134.97576)">
+    <path
+       id="path8-2-8"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-0-1"
+     transform="matrix(0.89730151,0,0,-1.0058456,207.43435,145.92176)">
+    <path
+       id="path8-2-2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-02-7"
+     transform="matrix(0.89725348,0,0,1.0058477,239.53391,-38.863031)">
+    <path
+       id="path8-1-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+     d="m 166.04117,25.498299 21.36019,2.654405"
+     id="path10" />
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="185.63145"
+     y="8.3199196"
+     id="text10"><tspan
+       id="tspan10"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="185.63145"
+       y="8.3199196">W</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="-0.36124462"
+     y="49.842628"
+     id="text10-0"><tspan
+       id="tspan10-29"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="-0.36124462"
+       y="49.842628">②アクチュエーションポイント</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="217.02477"
+     y="99.715172"
+     id="text10-0-1"><tspan
+       id="tspan10-29-8"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="217.02477"
+       y="99.715172">⑥選択中のしきい値</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="87.996979"
+     y="27.405708"
+     id="text10-0-1-6"><tspan
+       id="tspan10-29-8-0"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="87.996979"
+       y="27.405708">①押下レベル</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="33.279671"
+     y="80.454239"
+     id="text10-0-6"><tspan
+       id="tspan10-29-2"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="33.279671"
+       y="80.454239">③リリース下限ポイント</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="250.2411"
+     y="8.5513382"
+     id="text10-2"><tspan
+       id="tspan10-1"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="250.2411"
+       y="8.5513382">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="219.59009"
+     y="8.5569839"
+     id="text10-8"><tspan
+       id="tspan10-2"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="219.59009"
+       y="8.5569839">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="282.0314"
+     y="8.5626297"
+     id="text10-3"><tspan
+       id="tspan10-4"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="282.0314"
+       y="8.5626297">D</tspan></text>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-1-5)"
+     d="m 157.99204,76.838262 19.58545,-12.98805"
+     id="path10-6-6-7" />
+  <g
+     id="g9-4"
+     transform="matrix(0.89725348,0,0,-1.0058477,239.59934,136.98446)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.174318;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 30.657711,65.074725 c 0,-1.977109 0.01059,-3.594745 0.02356,-3.594745 0.02671,0 8.048506,6.853077 8.260668,7.05715 l 0.137582,0.132339 h -4.210904 -4.210905 z"
+       id="path9-5" />
+    <path
+       id="path8-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-02"
+     transform="matrix(0.89725348,0,0,1.0058477,143.4211,-30.591827)">
+    <path
+       id="path8-1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <g
+     id="g9-02-8"
+     transform="matrix(0.89725348,0,0,1.0058477,208.48137,-32.930622)">
+    <path
+       id="path8-1-54"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.419834,60.531339 40.529,69.197045 m -10.109166,0 V 60.531339 M 40.529,69.197045 H 30.419834" />
+  </g>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8)"
+     d="M 270.16074,89.551553 268.96908,79.019777"
+     id="path10-6" />
+  <ellipse
+     style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="path1"
+     cx="275.73856"
+     cy="151.25616"
+     rx="44.821411"
+     ry="45.045197" />
+  <g
+     id="g3"
+     transform="matrix(8.5875137,0,0,8.5875137,-976.72894,-1214.6328)"
+     style="stroke-width:0.349344;stroke-dasharray:none">
+    <g
+       id="g2"
+       style="stroke-width:0.349344;stroke-dasharray:none">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.349344;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1-4-5"
+         width="6.8896489"
+         height="6.8367028"
+         x="132.97128"
+         y="155.78731"
+         ry="2.014513" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.349344;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2-25"
+       width="2.2310638"
+       height="1.2728441"
+       x="135.30058"
+       y="162.13156"
+       ry="0.182638"
+       rx="0" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.349344;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2"
+       cx="136.41611"
+       cy="159.20566"
+       rx="1.2064737"
+       ry="1.2075875" />
+  </g>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-1)"
+     d="m 161.49966,45.50769 15.09062,-4.913769"
+     id="path10-6-6" />
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="88.324356"
+     y="173.42242"
+     id="text10-0-1-9"><tspan
+       id="tspan10-29-8-2"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="88.324356"
+       y="173.42242">④押しボタン</tspan></text>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-5)"
+     d="m 156.99204,169.13264 22.9153,-4.7145"
+     id="path10-6-61" />
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:11.2889px;line-height:1.45;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Medium';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     x="31.473455"
+     y="197.10712"
+     id="text10-0-1-9-8"><tspan
+       id="tspan10-29-8-2-0"
+       style="font-size:11.2889px;line-height:1.45;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="31.473455"
+       y="197.10712">⑤ロータリーエンコーダ</tspan></text>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-5-8)"
+     d="m 157.49204,192.77782 96.05801,-10.99678"
+     id="path10-6-61-0" />
+</svg>
