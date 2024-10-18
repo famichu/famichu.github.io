@@ -166,10 +166,11 @@ footer *{
     max-width: 320px;
     min-width: 20%;
     flex-grow: 1;
+    justify-content: center;
 }
 .flex-img{
     max-width: 100%;
-    align-self: flex-start;
+    align-self: center;
     margin-top: auto;
     margin-bottom: auto;
 }
