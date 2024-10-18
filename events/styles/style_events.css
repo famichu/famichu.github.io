@@ -165,12 +165,17 @@ footer *{
     display: flex;
     max-width: 320px;
     min-width: 20%;
+    flex-grow: 1;
 }
 .flex-img{
     max-width: 100%;
     align-self: flex-start;
     margin-top: auto;
     margin-bottom: auto;
+}
+
+#Sticker .flex-img{
+    border-radius: 50%;
 }
 
 /*hyper link*/
@@ -189,8 +194,30 @@ h3{
 
 /*====portfolio start====*/
 article{
+    width: 60%;
     max-width: 1024px;
 }
+
+article:not(:last-child):after{
+    overflow: hidden;
+    content: "";
+    border-color: var(--border-color);
+    border-style: solid none none none;
+    border-width: 1px;
+    display: block;
+    margin: 5% -5%;
+    width: 110%;
+}
+
+section:last-child, 
+article:last-child{
+    margin-bottom: 5%;
+}
+
+article:not(:first-of-type) h2{
+    margin-top: -3%;
+}
+
 
 .main_title{
     margin-bottom: 0;
@@ -206,20 +233,19 @@ article{
     flex-direction: row;
     align-items: stretch;
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .products p{
     margin: 0 2%;
 }
 .products .information{
-    flex-grow: 1;
+    flex-grow: 3;
 
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: stretch;
-    width: 100%;
 }
 
 .price{
@@ -249,28 +275,6 @@ article{
 }
 .information_links p{
     align-self: center;
-}
-
-article{
-    width: 60%;
-}
-article:not(:last-child):after{
-    overflow: hidden;
-    content: "";
-    border-color: var(--border-color);
-    border-style: solid none none none;
-    border-width: 1px;
-    display: block;
-    margin: 5% -5%;
-    width: 110%;
-}
-section:last-child, 
-article:last-child{
-    margin-bottom: 5%;
-}
-
-article:not(:first-of-type) h2{
-    margin-top: -3%;
 }
 
 #caution{
