@@ -284,6 +284,10 @@ article:not(:first-of-type) h2{
     font-size: 9pt;
 }
 
+.notice{
+    margin-bottom: 3em;
+}
+
 /*=====portfolio end=====*/
 
 @media screen and (max-width: 1250px){
