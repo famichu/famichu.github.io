@@ -177,6 +177,7 @@ footer *{
 
 #Sticker .flex-img{
     border-radius: 50%;
+    max-width: 75%;
 }
 
 /*hyper link*/
