@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.790611mm"
+   height="80.326912mm"
+   viewBox="0 0 97.790611 80.326912"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="mlsw_refkb_def_keymap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="mlsw_refkb_101_def_keymap.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.5387624"
+     inkscape:cx="107.9266"
+     inkscape:cy="84.096095"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     transform="translate(5.1444801,-0.05969367)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(5.1444801,-0.05969367)">
+    <rect
+       style="fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-9-7"
+       width="4.7722673"
+       height="4.735589"
+       x="88.20948"
+       y="202.08131"
+       ry="0.82523942"
+       transform="translate(-72.808801,-137.75508)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="94.701683"
+       y="205.60481"
+       id="text3-8-96-7-0"
+       transform="translate(-72.808801,-137.75508)"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="94.701683"
+         y="205.60481">: MagLev Switchキー</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="86.132957"
+       y="211.64427"
+       id="text3-8-96-7-0-8"
+       transform="translate(-72.808801,-137.75508)"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-4-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="86.132957"
+         y="211.64427"><tspan
+   style="fill:#0080ff;fill-opacity:1"
+   id="tspan5">青字</tspan>: Fnキー押下時</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="82.828796"
+       y="217.17226"
+       id="text3-8-96-7-0-8-1"
+       transform="translate(-72.808801,-137.75508)"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-4-6-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="82.828796"
+         y="217.17226">Super: Windowsキーまたは⌘キー</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 63.144662,34.985965 V 45.157657"
+       id="path87" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M -5.0727141,2.5726762 V 56.820936"
+       id="path88" />
+    <path
+       d="m -5.0726991,56.821004 a 2.4411765,2.4411765 0 0 0 2.441176,2.441176"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path89" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M -2.6315191,59.262129 H 90.133162"
+       id="path90" />
+    <path
+       d="m 90.133182,59.26218 a 2.4411765,2.4411765 0 0 0 2.44118,-2.441176"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path91" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 92.574352,56.820936 V 2.5726762"
+       id="path92" />
+    <path
+       d="M 92.574362,2.5726357 A 2.4411765,2.4411765 0 0 0 90.133182,0.13145967"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path93" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 90.133162,0.13148137 H -2.6315191"
+       id="path94" />
+    <path
+       d="M -2.6315231,0.13145967 A 2.4411765,2.4411765 0 0 0 -5.0726991,2.5726357"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path95" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 68.298182,24.407647 V 34.985965"
+       id="path96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 68.298182,34.985965 h -5.15352"
+       id="path97" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 63.144662,45.157657 h 1.49173"
+       id="path98" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 64.636392,45.157657 V 55.735976"
+       id="path99" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 64.636392,55.735976 H -2.9027961"
+       id="path100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M -2.9027961,55.735976 V 3.6576358"
+       id="path101" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M -2.9027961,3.6576358 H 60.567832"
+       id="path102" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 60.567832,3.6576358 V 14.236098"
+       id="path103" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 60.567832,14.236098 h 5.15352"
+       id="path104" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 65.721352,14.236098 V 24.407647"
+       id="path105" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 65.721352,24.407647 h 2.57683"
+       id="path106" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 86.157322,13.585036 v 6.781033"
+       id="path107" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 86.157322,20.366069 H 73.408932"
+       id="path108" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 73.408932,20.366069 V 13.585036"
+       id="path109" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 73.408932,13.585036 h 12.74839"
+       id="path110" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 79.840902,48.372203 h 2.43172"
+       id="path132" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 82.272622,48.372203 -1.14855,5.361787"
+       id="path133" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 81.124072,53.73399 h 0.99611"
+       id="path134-0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 82.120182,53.73399 1.3159,-1.284326"
+       id="path135" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 83.436082,52.449664 -1.12586,-2.137768"
+       id="path136" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 82.310222,50.311896 h 1.99653"
+       id="path137" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 84.306752,50.311896 0.56753,1.068741"
+       id="path138-3" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 84.874282,51.380637 0.99324,-1.068741"
+       id="path139" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 85.867522,50.311896 h 1.08826"
+       id="path140" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 86.955782,50.311896 -1.71233,1.759417"
+       id="path141" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 85.243452,52.071313 1.22031,2.308571"
+       id="path142-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 86.463762,54.379884 h -2.00572"
+       id="path143" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 84.458042,54.379884 -0.66197,-1.248729"
+       id="path144" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 83.796072,53.131155 -1.24931,1.248729"
+       id="path145" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 82.546762,54.379884 h -3.66122"
+       id="path146-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 78.885542,54.379884 0.8701,-4.08722"
+       id="path147" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 79.755642,50.292664 -2.24198,4.08722"
+       id="path148" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 77.513662,54.379884 h -1.2869"
+       id="path149" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 76.226762,54.379884 -0.42543,-4.229031"
+       id="path150-3" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 75.801332,50.150853 -0.90885,4.229031"
+       id="path151" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 74.892482,54.379884 h -1.84755"
+       id="path152" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 73.044932,54.379884 V 53.73399"
+       id="path153" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 73.044932,53.73399 h 1.13391"
+       id="path154-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 74.178842,53.73399 1.13965,-5.361787"
+       id="path155" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 75.318492,48.372203 h 2.41277"
+       id="path156" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 77.731262,48.372203 0.29309,3.387072"
+       id="path157" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 78.024352,51.759275 1.81655,-3.387072"
+       id="path158" />
+    <path
+       d="m 90.225952,29.69682 a 5.153595,5.153595 0 0 0 -10.30719,0 5.153595,5.153595 0 0 0 10.30719,0 z"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path163" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-224"
+       width="9.4149961"
+       height="9.3426352"
+       x="-2.1854119"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-9"
+       width="9.4149961"
+       height="9.3426352"
+       x="8.1217785"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-92"
+       width="9.4149961"
+       height="9.3426352"
+       x="18.428944"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-95"
+       width="9.4149961"
+       height="9.3426352"
+       x="28.736135"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-2"
+       width="9.4149961"
+       height="9.3426352"
+       x="39.043343"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-4"
+       width="9.4149961"
+       height="9.3426352"
+       x="49.350533"
+       y="4.4473176"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-5"
+       width="9.4149961"
+       height="9.3426352"
+       x="13.27535"
+       y="14.79129"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-0"
+       width="9.4149961"
+       height="9.3426352"
+       x="23.582531"
+       y="14.79129"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-3"
+       width="9.4149961"
+       height="9.3426352"
+       x="33.889732"
+       y="14.79129"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-32"
+       width="9.4149961"
+       height="9.3426352"
+       x="44.196922"
+       y="14.79129"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-1"
+       width="9.4149961"
+       height="9.3426352"
+       x="54.504097"
+       y="14.79129"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-22"
+       width="9.4149961"
+       height="9.3426352"
+       x="15.852178"
+       y="25.025492"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-951"
+       width="9.4149961"
+       height="9.3426352"
+       x="26.159367"
+       y="25.025492"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-45"
+       width="9.4149961"
+       height="9.3426352"
+       x="36.466576"
+       y="25.025492"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-33"
+       width="9.4149961"
+       height="9.3426352"
+       x="46.77375"
+       y="25.025492"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-8"
+       width="9.4149961"
+       height="9.3426352"
+       x="57.08094"
+       y="25.025492"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-339"
+       width="9.4149961"
+       height="9.3426352"
+       x="21.005703"
+       y="35.332672"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-229"
+       width="9.4149961"
+       height="9.3426352"
+       x="31.312895"
+       y="35.332672"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-06"
+       width="9.4149961"
+       height="9.3426352"
+       x="41.620079"
+       y="35.332672"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-7"
+       width="9.4149961"
+       height="9.3426352"
+       x="51.117466"
+       y="35.773949"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-21"
+       width="9.4149961"
+       height="9.3426352"
+       x="10.698484"
+       y="45.639862"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-96"
+       width="9.4149961"
+       height="9.3426352"
+       x="21.005703"
+       y="45.639862"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-44"
+       width="9.4149961"
+       height="9.3426352"
+       x="31.312895"
+       y="45.639862"
+       ry="1.6280786" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-6"
+       width="14.44761"
+       height="9.4401331"
+       x="-2.1249719"
+       y="14.742543"
+       ry="1.6450686" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-6-4"
+       width="16.974617"
+       height="9.3903437"
+       x="-2.1000009"
+       y="25.001638"
+       ry="1.6363925" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-6-7"
+       width="22.105715"
+       height="9.4419127"
+       x="-2.1257882"
+       y="35.283039"
+       ry="1.6453791" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-6-7-6"
+       width="22.105715"
+       height="9.4419127"
+       x="41.716728"
+       y="45.590229"
+       ry="1.6453791" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287064;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-4-97-6-49"
+       width="11.925379"
+       height="9.4947004"
+       x="-2.1521783"
+       y="45.563831"
+       ry="1.6545777" />
+    <path
+       d="m 78.833792,28.069369 a 1.627451,1.627451 0 0 0 -1.62745,-1.627451"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path111" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 77.206362,26.441928 h -3.25487"
+       id="path112" />
+    <path
+       d="m 73.951442,26.441918 a 1.627451,1.627451 0 0 0 -1.62745,1.627451"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path113" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 72.323982,28.069438 v 3.254879"
+       id="path114" />
+    <path
+       d="m 72.323992,31.324271 a 1.627451,1.627451 0 0 0 1.62745,1.627451"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path115" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 73.951492,32.951684 h 0.13563"
+       id="path116" />
+    <path
+       d="m 74.087062,33.222964 a 0.13562137,0.13562137 0 0 0 0,-0.271242"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path117" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 74.087122,33.22296 h -0.13563"
+       id="path118-4" />
+    <path
+       d="m 72.052752,31.324271 a 1.8986928,1.8986928 0 0 0 1.89869,1.898693"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path119" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 72.052702,31.324317 V 28.069438"
+       id="path120" />
+    <path
+       d="m 73.951442,26.170676 a 1.8986928,1.8986928 0 0 0 -1.89869,1.898693"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path121" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 73.951492,26.170651 h 3.25487"
+       id="path122-5" />
+    <path
+       d="m 79.105032,28.069369 a 1.8986928,1.8986928 0 0 0 -1.89869,-1.898693"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path123" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 79.105012,28.069438 v 3.254879"
+       id="path124" />
+    <path
+       d="m 77.206342,33.222964 a 1.8986928,1.8986928 0 0 0 1.89869,-1.898693"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path125" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 77.206362,33.22296 h -0.13563"
+       id="path126-5" />
+    <path
+       d="m 77.070722,32.951722 a 0.13562137,0.13562137 0 0 0 0,0.271242"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path127" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="m 77.070732,32.951684 h 0.13563"
+       id="path128" />
+    <path
+       d="m 77.206342,32.951722 a 1.627451,1.627451 0 0 0 1.62745,-1.627451"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path129" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       d="M 78.833742,31.324317 V 28.069438"
+       id="path130-6" />
+    <path
+       d="m 76.935102,29.69682 a 1.35621,1.35621 0 0 0 -2.71242,0 1.35621,1.35621 0 0 0 2.71242,0 z"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.143532;stroke-dasharray:none"
+       id="path131" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="-1.4754168"
+       y="10.656419"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="-1.4754168"
+         y="10.656419">ESC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="11.61477"
+       y="9.5980997"
+       id="text3-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="11.61477"
+         y="9.5980997">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="32.291611"
+       y="9.5980997"
+       id="text3-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="32.291611"
+         y="9.5980997">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="42.608974"
+       y="9.5980997"
+       id="text3-8-9-13"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="42.608974"
+         y="9.5980997">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="22.00197"
+       y="9.6256113"
+       id="text3-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="22.00197"
+         y="9.6256113">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="52.860512"
+       y="9.5705881"
+       id="text3-8-96-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="52.860512"
+         y="9.5705881">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="41.858086"
+       y="12.96454"
+       id="text3-8-96-84"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-47"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="41.858086"
+         y="12.96454">F4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="11.02369"
+       y="12.96454"
+       id="text3-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="11.02369"
+         y="12.96454">F1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="31.580408"
+       y="12.96454"
+       id="text3-8-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="31.580408"
+         y="12.96454">F3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="21.317225"
+       y="12.992051"
+       id="text3-8-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="21.317225"
+         y="12.992051">F2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="52.14666"
+       y="12.937028"
+       id="text3-8-96-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="52.14666"
+         y="12.937028">F5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="1.5208219"
+       y="21.079607"
+       id="text3-8-96-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="1.5208219"
+         y="21.079607">Tab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="16.39245"
+       y="20.611818"
+       id="text3-8-96-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="16.39245"
+         y="20.611818">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="26.394228"
+       y="20.973772"
+       id="text3-8-96-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="26.394228"
+         y="20.973772">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="37.223801"
+       y="20.973772"
+       id="text3-8-96-62"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="37.223801"
+         y="20.973772">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="47.386635"
+       y="20.973772"
+       id="text3-8-96-29"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-80"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="47.386635"
+         y="20.973772">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="57.943714"
+       y="21.014124"
+       id="text3-8-96-29-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-80-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="57.943714"
+         y="21.014124">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="60.363922"
+       y="31.248325"
+       id="text3-8-96-29-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-80-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="60.363922"
+         y="31.248325">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="54.605766"
+       y="41.99678"
+       id="text3-8-96-29-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-80-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="54.605766"
+         y="41.99678">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="-1.5373598"
+       y="30.676043"
+       id="text3-8-96-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="-1.5373598"
+         y="30.676043">CapsLock</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="19.257433"
+       y="31.227434"
+       id="text3-8-96-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="19.257433"
+         y="31.227434">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="29.589594"
+       y="31.227434"
+       id="text3-8-96-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="29.589594"
+         y="31.227434">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="39.570206"
+       y="31.227434"
+       id="text3-8-96-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-45"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="39.570206"
+         y="31.227434">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="50.111931"
+       y="31.227434"
+       id="text3-8-96-50"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-49"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="50.111931"
+         y="31.227434">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="4.3320022"
+       y="41.614441"
+       id="text3-8-96-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="4.3320022"
+         y="41.614441">Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="24.420343"
+       y="41.481079"
+       id="text3-8-96-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="24.420343"
+         y="41.481079">Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="34.80542"
+       y="41.481079"
+       id="text3-8-96-26"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-53"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="34.80542"
+         y="41.481079">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="44.87706"
+       y="41.481079"
+       id="text3-8-96-34"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="44.87706"
+         y="41.481079">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="0.27758163"
+       y="51.904266"
+       id="text3-8-96-06"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="0.27758163"
+         y="51.904266">Ctrl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+       x="12.943063"
+       y="51.798431"
+       id="text3-8-96-01"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-34"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#0080ff;fill-opacity:1;stroke-width:0.264583"
+         x="12.943063"
+         y="51.798431">Fn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="21.234224"
+       y="51.596817"
+       id="text3-8-96-61"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-18"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="21.234224"
+         y="51.596817">Super</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="33.355515"
+       y="51.904266"
+       id="text3-8-96-53"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-82"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="33.355515"
+         y="51.904266">Alt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+       x="46.773453"
+       y="51.870392"
+       id="text3-8-96-57"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-85-17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';stroke-width:0.264583"
+         x="46.773453"
+         y="51.870392">Space</tspan></text>
+  </g>
+</svg>

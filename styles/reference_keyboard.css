@@ -247,8 +247,11 @@ h3{
     margin: auto;
 }
 .specification figure{
-    width: 40%;
+    width: 70%;
     margin: auto;
+}
+.specifications img{
+    width: 100%;
 }
 
 .download{
@@ -372,6 +375,57 @@ article:not(:first-of-type) h2{
 .note p{
     text-indent: 1em;
 }
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0 0 0 / 60%);
+}
+
+.modal:target {
+  display: flex;
+}
+
+.close {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 20px;
+  height: 30px;
+  width: 90px;
+  padding:0px, 40px;
+  color: black;
+  background-color: #FEFEFE;
+  border: 2px solid darkslategray;
+  border-radius: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  z-index: 2;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-wrapper {
+  position: relative;
+  width: 80%;
+  max-width: 900px;
+  max-height: 70%;
+  padding: 20px;
+  margin: auto;
+  overflow: auto;
+  background-color: #FEFEFE;
+  border-radius: 5px;
+}
+
 
 @media screen and (max-width: 1250px){
     /*header*/
