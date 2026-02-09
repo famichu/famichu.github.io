@@ -1,0 +1,262 @@
+<!doctype html/>
+<html lang="ja"/>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Liminal - 磁気スイッチアケコンボタン</title>
+    <meta name="discription" content="MagLev Switchリファレンスキーボードについて">
+    <meta property="og:title" content="MagLev Switchリファレンスキーボード">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://famichu.github.io/images/logo.jpg">
+    <meta property="og:url" content="https://www.famichu.github.io">
+    <meta property="og:discription" content="MagLev Switchリファレンスキーボードについて">
+    <link rel="stylesheet" href="../styles/liminal.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <a href="../index.html">
+            <img src="../images/logo.jpg">
+        </a>
+        <a href="../index.html">
+            <h3>famichuのものづくり日記</h3>
+        </a>
+        <nav>
+            <ul class="nav-ul">
+                <li class="nav-li"><a href="../htmls/portfolio.html">制作物</a></li>
+                <li class="nav-li"><a href="../htmls/events.html">イベント</a></li>
+                <li class="nav-li"><a href="../htmls/profile.html">自己紹介</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="abstract">
+            <h1>Liminal</h1>
+            <img src="../images/liminal_header.png">
+        </div>
+        <h2>特徴</h2>
+        <article>
+            <div class="features">
+                <div class="feature">
+                    <h3>磁気スイッチΦ24mmボタン</h3>
+                    <figure>
+                        <img src="../images/liminal_feature_magnetic24.jpg">
+                        <figcaption></figcaption>
+                    </figure>
+                    <p>
+                        磁気スイッチを内蔵し、押下具合をアナログで取得できるアケコン向けボタンです。
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>既存のボードで使用可能</h3>
+                    <figure>
+                        <img src="../images/liminal_feature_controller.jpg">
+                        <figcaption></figcaption>
+                    </figure>
+                    
+                    <p>
+                        搭載するマイコンでしきい値処理を行いデジタル出力に変換するため、
+                        既存のアケコンボードなどで利用できます。
+                    </p>
+                </div>
+                
+                <div class="feature">
+                    <h3>しきい値やLED色を設定可能</h3>
+                    <figure>
+                        <img src="../images/liminal_feature_configuarable.jpg">
+                        <figcaption></figcaption>
+                    </figure>
+                    
+                    <p>
+                        専用書換機「Liminal Hub」に接続し、しきい値やLEDの色・発光パターン等を
+                        変更できます。設定保存後はボタン単体で使用可能です。
+                    </p>
+                </div>
+            </div>
+        </article>
+
+        <h2>詳細スペック</h2>
+        <article>
+            <div class="specifications">
+                <h2>Liminal</h2>
+                <div class="specification">
+                    <figure>
+                        <img src="../images/msd_01_drawing.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <ul>
+                        <li>取付寸法: Φ24mm</li>
+                        <li>本体色: 白/黒</li>
+                        <li>コネクタ: JST-ZH 6P</li>
+                        <li>電源電圧: 3.3V～5.5V</li>
+                        <li>出力側電圧: 電源電圧以下</li>
+                        <li>固定方式: ねじ式</li>
+                        <!-- <li>応答速度: </li> -->
+                    </ul>
+                </div>
+            </div>
+            <div class="specifications">
+                <h2>Liminal Hub</h2>
+                <div class="specification">
+                    <figure>
+                        <img src="../images/msd_hub_drawing.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <ul>
+                        <li>本体色: 白/黒</li>
+                        <li>通信用コネクタ: JST-ZH 6P</li>
+                        <li>電源用コネクタ: JST-ZH 2PまたはUSB Type-C</li>
+                        <li>電源電圧: 4.7V～5.5V</li>
+                        <li>同時接続台数: 16台まで</li>
+                    </ul>
+                </div>
+                <p>
+                    LiminalにはLiminal Hubと接続するためのケーブルと、アケコンボードやマイコンなどと接続するための片側未配線ケーブルが付属します。</br>
+                    Liminal背面のスイッチよりチャンネルを変更することで、Liminal Hubは最大16台のLiminalを同時に認識することができるようになります。
+                </p>
+                <p>
+                    <b>
+                        ※スイッチを交換するための横窓は設けておりますが、初期搭載以外のスイッチは動作保証致しかねます。<br>
+                        ※ボタンキャップはΦ20.2mmのMX軸の物をご利用いただけますが、製品精度の都合上初期搭載品以外での保証は致しかねます。<br>
+                        ※単体でも使用いただけますが、しきい値やLED発光設定の変更にはLiminal HubまたはI2C経由での設定値書き込みが必要です。<br>
+                        ※本製品は開発段階です。予告なく内容を変更する場合があります。
+                    </b>
+                </p>
+            </div>
+        </article>
+
+        <h2>Liminalの主な設定項目</h2>
+        <article>
+            <div class="features">
+                <div class="feature">
+                    <h3>反転判定基準</h3>
+                    <p>
+                        センサの値がどの程度変化した段階でリリース判定とするか(所謂ラピッドトリガー)の感度を設定可能です。
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>しきい値設定</h3>
+                    <p>
+                        しきい値は、0～100%の任意の深さで設定できます。
+                        アクチュエーションポイントに加え、リリース状況によらず押下扱いとする長押し判定深さも設定可能です。
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>LED設定</h3>
+                    <p>
+                        発光色はRGBそれぞれ256段階で設定可能です。
+                        発光パターンは「OFF」「常時点灯」「点滅」「フェード点滅」の4種類から選択でき、それらの周期も変更できます。
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <h3>キャリブレーション</h3>
+                    <p>
+                        磁束密度の異なるスイッチ等にも対応できるよう、キャリブレーション機能も搭載します。
+                        値の振れ幅からそのスイッチのレンジを測定します。
+                    </p>
+                </div>
+        </article>
+        
+        <h2>追加アクセサリ</h2>
+        <article>
+            <div class="specifications">
+                <h2>Liminal拡張モジュール</h2>
+                <div class="specification">
+                    <figure>
+                        <img src="../images/coming_soon.png">
+                        <figcaption></figcaption>
+                    </figure>
+                    <ul>
+                        <li>コネクタ: JST-ZH 2P</li>
+                        <li>最大取付板厚: 3mm以下</li>
+                    </ul>
+                </div>
+                <p>
+                    Liminalの下部に取り付けることで、LEDの同期点灯や2本目の出力ピン(しきい値は1本目と別に設定可能)が追加されるモジュールです。<br>
+                    LEDはSK6805D(所謂NeoPixel)を使用しているため、互換性のあるモジュールや他のLiminalと同期的に点灯させることができます。
+                </p>
+                <p>
+                    <b>
+                        ※全てのNeoPixelシリーズとの連携は保証する物ではありません。<br>
+                        ※NeoPixelの信号レベルはLiminalへ接続する電源電圧に依存します。<br>
+                        ※本モジュールから出るピンはGNDとNeoPixelのOUTのみとなります。電源は各モジュールに別途接続する必要があります。<br>
+                        ※本モジュールはLiminal下部のネジに固定するため、3mm厚以上の板に固定されたLiminalには接続できません。<br>
+                        ※本製品は開発段階です。予告なく内容を変更する場合があります。
+                    </b>
+                </p>
+            </div>
+        </article>
+
+        <h2>ダウンロード</h2>
+        <article>
+            <div class="download">
+                <p>
+                    Liminal - ユーザーガイド: Comming soon...
+                </p>
+                <p>
+                    Liminal Hub - ユーザーガイド: Comming soon...
+                </p>
+                <p>
+                    Liminal拡張モジュール - ユーザーガイド: Comming soon...
+                </p>
+            </div>
+        </article>
+        
+        <h2>展示・頒布</h2>
+        <article>
+            <div class="publications">
+                <p>
+                    <a href=https://catalog.keyket.jp/tokyo-2026/exhibitor/E-02>キーケット2026</a>にて頒布および展示を行う予定です。
+                </p>
+            </div>
+        </article>
+        <article>
+            
+        </article>
+
+        <!--
+        <h2>イベント出展</h2>
+        <article>
+            <div class="publications">
+                <p>
+                    Liminalシリーズを展示・頒布したイベント一覧です。
+                </p>
+                <div class="centering-ul">
+                    <ul>
+                        <li>キーケット2026(2026年3月28日): <a href=https://catalog.keyket.jp/tokyo-2026/exhibitor/E-02>https://catalog.keyket.jp/tokyo-2026/exhibitor/E-02</a></li>
+                    </ul>
+                </div>
+            </div>
+        </article>
+        -->
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="content">
+                <div class="author">
+                        <h1>famichuのものづくり日記</h1>
+                        <p>本ページはfamichuの活動記録です. </p>
+                </div>
+                <div class="link">
+                    <ul class="link-ul">
+                    <h4>関連リンク</h4>
+                        <li class="link-li"><a href="https://twitter.com/famichu">Twitter</a></li>
+                        <li class="link-li"><a href="https://www.youtube.com/channel/UChmBNnx_jyQxPidEs02TLgg">YouTube(今の所イベントとかの動画用)</a></li>
+                        <li class="link-li"><a href="https://github.com/famichu">GitHub</a></li>
+                        <li class="link-li"><a href="https://www.printables.com/@famichu_191761">Printables</a></li>
+                        <li class="link-li"><a href="https://makerworld.com/en/@famichu">MakerWorld</a></li>
+                        <li class="link-li"><a href="https://www.amazon.jp/hz/wishlist/ls/126B59SHEUFQU?ref_=wl_share">欲しいもの 兼 おすすめ消耗品リスト</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p id="copyright">Copyright &copy; 2025 famichu</p>
+        </div>
+    </footer>
+</body>
