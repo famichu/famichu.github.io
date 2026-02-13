@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <title>famichuのものづくり日記</title>
-    <meta name="discription" content="キーケット2025 おしながき">
+    <meta name="discription" content="キーケット2026 おしながき">
     <meta property="og:title" content="famichuのものづくり日記">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://famichu.github.io/images/logo.jpg">
     <meta property="og:url" content="https://www.famichu.github.io">
-    <meta property="og:discription" content="キーケット2025 おしながき">
+    <meta property="og:discription" content="キーケット2026 おしながき">
     <link rel="stylesheet" href="./styles/style_events.css">
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
 </head>
@@ -32,8 +32,91 @@
     </header>
    
     <main>
-        <h1 class="main_title">キーケット2025 おしながき</h1>
-        <h2 class="sub_title"><a href="https://catalog.keyket.jp/tokyo-2025/exhibitor/B-04">B-04 famichu</a></h2>
+        <h1 class="main_title">キーケット2026 おしながき</h1>
+        <h2 class="sub_title"><a href="https://catalog.keyket.jp/tokyo-2026/exhibitor/E-02">E-02 famichu</a></h2>
+
+        <article>
+            <h2 id="Liminal">Liminal</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/liminal.jpg">
+                </div>
+                <div class=information>
+                    <p>
+                        磁気スイッチとフルカラーLEDを搭載した24mm径のアケコンスイッチです。<br>
+                        入力は磁気スイッチによるアナログ信号ですが、本体に搭載のマイコンでしきい値処理を行うため、既存のアケコンボード等で使用できます。
+                        しきい値や発光色はLiminal HubまたはI2C経由で設定します。
+                    </p>
+                    <!--
+                    <div class=information_title>
+                        <p>追加コンテンツ</p>
+                    </div>
+                    <div class=information_links>
+                        <p><a href="../dl/man_liminal.html" target="_blank">ユーザマニュアル(PDF)</a></p>
+                    </div>
+                    -->
+                    <div class=price>
+                        <p>イベント当日価格: 未定</p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article>
+            <h2 id="Liminal">Liminal Hub</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/msd_hub_drawing.png">
+                </div>
+                <div class=information>
+                    <p>
+                        Liminalの設定値を書き換えるためのデバイスです。<br>
+                        Liminalと接続することで、押下レベルのモニター、しきい値の変更、LEDの色・発光パターンの変更などを行うことができます。
+                        なお本品は設定の書き換え時のみ必要となり、書き換え後はLiminal単体で動作が可能です。<br>
+                    </p>
+                    <!--
+                    <div class=information_title>
+                        <p>追加コンテンツ</p>
+                    </div>
+                    <div class=information_links>
+                        <p><a href="../dl/man_liminal_hub.html" target="_blank">ユーザマニュアル(PDF)</a></p>
+                    </div>
+                    -->
+                    <div class=price>
+                        <p>イベント当日価格: 未定</p>
+                    </div>
+                </div>
+            </article>
+        </article>
+
+        <article>
+            <h2 id="Liminal">Liminal拡張モジュール</h2>
+            <article class="products">
+                <div class="thumbnail">
+                    <img class="flex-img" src="../images/coming_soon.png">
+                </div>
+                <div class=information>
+                    <p>
+                        Liminalに取り付ける拡張モジュールです。<br>
+                        本品をLiminalに取り付けると、他のLiminalやNeoPixelとの発光同期機能、2本目の出力ピン(しきい値は1本目と別に設定可能)
+                        が追加されます。
+                    </p>
+                    <!--
+                    <div class=information_title>
+                        <p>追加コンテンツ</p>
+                    </div>
+                    <div class=information_links>
+                        <p><a href="../dl/man_liminal.html" target="_blank">ユーザマニュアル(PDF)</a></p>
+                    </div>
+                    -->
+                    <div class=price>
+                        <p>イベント当日価格: 未定</p>
+                    </div>
+                </div>
+            </article>
+        </article>
+        
+        <!--
         <article>
             <h2 id="MLSW_REFKB">MagLev Switchリファレンスキーボード</h2>
             <article class="products">
@@ -65,32 +148,7 @@
                 </div>
             </article>
         </article>
-
-        <article>
-            <h2 id="MLSW_MX">MagLev Switch MX</h2>
-            <article class="products">
-                <div class="thumbnail">
-                    <img class="flex-img" src="../images/mlsw_mx.jpg">
-                </div>
-                <div class=information>
-                    <p>
-                        ホールセンサと磁石を使ったバネ不使用・無接点のキーボード向けスイッチです。
-                        押下具合に応じた電圧を出力します。軸形状はCherry MXスイッチと互換性があります。<br>
-                        本スイッチは原則基板設計が必要で単体では動作しませんが、キーケットではストラップにもなるブレイクアウトボードをオマケします。
-                    </p>
-                    <div class=information_title>
-                        <p>追加コンテンツ</p>
-                    </div>
-                    <div class=information_links>
-                        <p><a href="../dl/man_mx.html" target="_blank">ユーザマニュアル(PDF)</a></p>
-                        <p><a href="../dl/pcblib_mx.html" target="_blank">KiCADライブラリ</a></p>
-                    </div>
-                    <div class=price>
-                        <p>イベント当日価格: 700円</p>
-                    </div>
-                </div>
-            </article>
-        </article>
+        -->
 
         <article>
             <h2 id="MLSW_Module">MagLev Switch Breakout Module 3</h2>
@@ -110,7 +168,7 @@
                         <p><a href="../dl/man_bm3.html" target="_blank">ユーザマニュアル(PDF)</a></p>
                     </div>
                     <div class=price>
-                        <p>イベント当日価格: 1600円</p>
+                        <p>イベント当日価格: 未定</p>
                     </div>
                 </div>
             </article>
@@ -134,7 +192,7 @@
                         <p><a href="../dl/man_arcade.html" target="_blank">ユーザマニュアル(PDF)</a></p>
                     </div>
                     <div class=price>
-                        <p>イベント当日価格: 800円</p>
+                        <p>イベント当日価格: 未定</p>
                     </div>
                 </div>
             </article>
@@ -182,6 +240,7 @@
             </article>
         </article>
 
+        <h1 class="notice">Liminalについては<a href="../htmls/liminal.html">コチラ！</a></h2>
         <h1 class="notice">MagLev Switchシリーズについては<a href="../htmls/maglev_switch_series.html">コチラ！</a></h2>
     </main>
 
